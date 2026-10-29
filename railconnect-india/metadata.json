@@ -1,0 +1,8 @@
+{
+  "name": "RailConnect India",
+  "description": "Next-generation 3D animated Indian Railway Reservation System prototype featuring 3D coach seat booking, Smart Pre-Booking, waiting list automation, real-time alerts, and RailBot AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
